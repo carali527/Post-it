@@ -30,8 +30,6 @@ export default {
   data() {
     return{
       toDo:[],
-      title:"",
-      content:"",
       red:"",
       blue:"",
       green:""
